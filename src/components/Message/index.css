@@ -1,0 +1,15 @@
+.message-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  width: 40%;
+  padding: 40px;
+  border-radius: 10px;
+}
+.message {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 25px;
+}

@@ -1,0 +1,12 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+@media (min-width: 768px) {
+  .app-container {
+    align-items: center;
+  }
+}
